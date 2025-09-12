@@ -67,7 +67,7 @@ The dataset includes customer details, sales transactions, payment gateways, pro
 <img width="1125" height="659" alt="image" src="https://github.com/user-attachments/assets/ad095e4b-579c-432e-9e2e-48e819603656" />
 
 *  🚀 **How to Use**
-* Clone this repository.
-* Open the .pbix file in Power BI Desktop.
-* Explore the interactive dashboard for weather trends and insights.
+  * Clone this repository.
+  * Open the .pbix file in Power BI Desktop.
+  * Explore the interactive dashboard for weather trends and insights.
 
